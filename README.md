@@ -18,3 +18,10 @@
     - Leandro Saraco
     - Elon Musk
 - Se usa LangGraph con un nodo de decisión para determinar sobre qué individuo se requieren datos.
+
+## TP 3 - Generación de imágenes a partir de texto
+
+- Link: [https://github.com/lsaraco/LLM_fiuba/tree/main/Generacion_imagenes](https://github.com/lsaraco/LLM_fiuba/tree/main/Generacion_imagenes)
+- Generación de imágenes a partir de texto.
+- Uso de StableDifussion v2 (versión normal y base).
+- Uso de librerías de HugginFace.
